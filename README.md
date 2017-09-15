@@ -4,11 +4,15 @@ briancohn.com
 
 # Brian Cohn
 
-#### Chief Scientist, Kaspect
+#### Chief Scientist, Kaspect <link to kaspect>
 I've made a mission of revolutionizing the way we garner insight from biomedical data, through the combined creativity of a diverse team, and a structured design process for data science. As the Chief Scientist of Kaspect, a consultancy for artificial intelligence strategy, I guide companies in creating new intellectual property. In each of my projects, I leverage my wealth of experience from working with Fortune 10 companies, hospital networks, national legal firms, and biotechnology companies.
 
-#### Graduate Fellow, National Science Foundation (NSF)
+#### Graduate Fellow, National Science Foundation (NSF) <link to research>
 My Ph.D. research is primarily focused on predicting human muscle control patterns in health, development, aging, and pathological conditions, and the design of artificial intelligence pipelines capable of handling new levels of data. This will serve as a neuromechanical template to interpret the torrent of behavioral data now available from patients and athletes. I work with Francisco Valero-Cuevas at USC, on multiple initiatives funded by the US National Institute of Health and USC.
+
+[C.V. PDF](/content/briancohn.pdf)
+
+Publications
 
 
 
@@ -29,3 +33,7 @@ Please send requests for radio, print, podcast interviews/consultations to ask@b
 
 ## Speaking
 I am fully booked for speaking engagments through the end of 2017. For speaking engagements in 2018 onwards, send information to [keynote@briancohn.com](mailto:keynote@brian.cohn.com).
+
+## Social Media
+[LinkedIn](https://linkedin.com/in/brianalexandercohn)
+[GitHub.com/bc](https://github.com/bc)
