@@ -10,23 +10,49 @@ I've made a mission of revolutionizing the way we garner insight from biomedical
 #### Graduate Fellow, National Science Foundation (NSF) <link to research>
 My Ph.D. research is primarily focused on predicting human muscle control patterns in health, development, aging, and pathological conditions, and the design of artificial intelligence pipelines capable of handling new levels of data. This will serve as a neuromechanical template to interpret the torrent of behavioral data now available from patients and athletes. I work with Francisco Valero-Cuevas at USC, on multiple initiatives funded by the US National Institute of Health and USC.
 
+
+# Research & Publications
 [C.V. PDF](/content/briancohn.pdf)
 
-Publications
+## Peer Reviewed Publications
+1. __Feasibility Theory reconciles alternative approaches to neuromuscular control__.  
+In Review: Proceedings of the National Academy of Science. September 2017.  
+Cohn BA, Jalaleddini K, Valero-Cuevas FJ  
+
+2. __Motor learnability across posture__  
+Accepted: Frontiers in Robotics and AI: Bionics and Biomimetics. October 2017.  
+Cohn BA, Jalaleddini K, Valero-Cuevas FJ 
+
+3. __Eye Histology and Ganglion Cell Topography of Northern Elephant Seals (Mirounga angustirostris)__.    
+Anat. Rec., 299: 798–805. doi:10.1002/ar.23342
+Smodlaka, H., Khamas, W. A., Palmer, L., Lui, B., Borovac, J. A., Cohn, B. A. and Schmitz, L. (2016)
+
+4. __Exploring the nature of muscle redundancy via subject-specific and generic musculoskeletal models__   Featured Publication: Journal of Biomechanics, 2015.    
+Valero-Cuevas FJ, Cohn BA, Yngvason HF, Lawrence EL  
+
+5. __Structure of the set of feasible neural commands for complex motor tasks__  
+37th Annual International Conference of the IEEE Engineering in Medicine and Biology Society, 2015.    
+Valero-Cuevas FJ, Cohn BA, Szedlák M, Gärtner B, Fukuda K  
+
+6. __Retinal topography maps in R: new tools for the analysis and visualization of spatial retinal data.__   Journal of Vision July 2015, Vol.15, 19. 2015.    
+Cohn BA, Wainwright P, Collin S, Schmitz L  
+
+
+## Patents
+Cohn, BA. "METHOD AND APPARATUS FOR CONTINUOUSLY PRODUCING ANALYTICAL REPORTS" U.S. Patent Application No.: 15/645,860. 7 Jul. 2017.
 
 
 
 # Contact
 
-Given my roles as a scientist and business owner, I set aside time to evaluate new opportunities.
-
+Given my roles as a scientist and business owner, I set aside time to evaluate new opportunities. 
 Below are the ways you can reach me, along with some relevant instructions.
 
 ## Licensing of Software or Technique Inquiries
 If you or your company is pursuing a software license for one of the technologies I have developed, these requests are handled by the USC Stevens Institute Center for Innovation.
 
 ## Opportunities
-One of the things I love about science is how big collaborations can be sparked by mere conversation, across universities, companies, and governments. If you have a project you're working on that might interest me, given the topics I publish in, send it to ideas@briancohn.com.
+One of the things I love about science is how quickly an idea can affect an industry, and how they can be sources from universities, companies, and governments. If you have a project you're working on that might interest me, given the topics I publish in, send it to ideas@briancohn.com.
 
 ## Interview Requests
 Please send requests for radio, print, podcast interviews/consultations to ask@briancohn.com.
