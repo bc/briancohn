@@ -11,3 +11,6 @@
 
 ## Evaluation Rubrics
 [http://www-scf.usc.edu/~csci401/finalproject/FinalProjectPresentationGradingRubric.pdf][CSCI401 Capstone Presentation]
+
+## ggplot2
+[http://ggplot2.tidyverse.org/reference/ggtheme.html][ggthemes]
