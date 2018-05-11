@@ -14,3 +14,4 @@
 
 ## ggplot2
 [http://ggplot2.tidyverse.org/reference/ggtheme.html][ggthemes]
+[https://web.archive.org/web/20160320034441/cran.r-project.org/web/packages/GGally/vignettes/ggpairs.html][ggpairs]
