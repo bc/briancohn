@@ -16,5 +16,6 @@
 [http://ggplot2.tidyverse.org/reference/ggtheme.html][ggthemes]
 [https://web.archive.org/web/20160320034441/cran.r-project.org/web/packages/GGally/vignettes/ggpairs.html][ggpairs]
 [https://github.com/ropensci/plotly][ggplotly]
+[https://github.com/rstudio/cheatsheets/blob/master/data-visualization-2.1.pdf][PDF Cheat Sheet to ggplot2, by tidyverse]
 ## Bokeh
 [http://holoviews.org/gallery/index.html][holoviews]
