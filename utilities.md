@@ -19,3 +19,7 @@
 [https://github.com/rstudio/cheatsheets/blob/master/data-visualization-2.1.pdf][PDF Cheat Sheet to ggplot2, by tidyverse]
 ## Bokeh
 [http://holoviews.org/gallery/index.html][holoviews]
+
+
+# R tip
+Warnings as errors: `options(warn=2)`
