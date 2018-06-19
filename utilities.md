@@ -23,3 +23,6 @@
 
 # R tip
 Warnings as errors: `options(warn=2)`
+
+# Electronics
+[https://www.youtube.com/watch?v=pTVek7v0_R8](NOT gate)
