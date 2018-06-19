@@ -19,10 +19,11 @@
 [https://github.com/rstudio/cheatsheets/blob/master/data-visualization-2.1.pdf][PDF Cheat Sheet to ggplot2, by tidyverse]
 ## Bokeh
 [http://holoviews.org/gallery/index.html][holoviews]
+[http://www.ancienteco.com/2012/05/quickly-visualize-your-whole-dataset.html][Visualize tableplot of data]
 
 
 # R tip
 Warnings as errors: `options(warn=2)`
 
 # Electronics
-[https://www.youtube.com/watch?v=pTVek7v0_R8](NOT gate)
+[https://www.youtube.com/watch?v=pTVek7v0_R8][NOT gate]
