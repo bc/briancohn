@@ -27,3 +27,7 @@ Warnings as errors: `options(warn=2)`
 
 # Electronics
 [https://www.youtube.com/watch?v=pTVek7v0_R8][NOT gate]
+
+# iTerm/SublimeText
+`bash /Users/briancohn/scripts/iterm_open_with.sh \5 \1 \2 `
+[https://gist.github.com/trinitronx/f59a8308d42d71fdba41][Command click to subl to specific line]
