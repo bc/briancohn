@@ -23,7 +23,8 @@
 
 
 # R tip
-Warnings as errors: `options(warn=2)`
+Warnings as errors: `options(warn=2)`   
+`options(error=browser)` or default as `options(error=NULL)`
 
 # Electronics
 [https://www.youtube.com/watch?v=pTVek7v0_R8][NOT gate]
