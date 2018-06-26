@@ -35,4 +35,5 @@ Warnings as errors: `options(warn=2)`
 
 
 # Linux Setup
-[https://docs.docker.com/install/linux/docker-ce/ubuntu/#set-up-the-repository[Set up Docker]
+[https://docs.docker.com/install/linux/docker-ce/ubuntu/#set-up-the-repository][Set up Docker]
+`sudo usermod -a -G docker $USER` To make docker accessible to the user without `sudo`
