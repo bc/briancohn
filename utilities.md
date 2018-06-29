@@ -1,4 +1,19 @@
 # Utilities
+## Docker
+`services start docker`
+`docker images` and `docker ps -a` -a to show nonrunning containers too
+`docker run --name="container-name" image-name`
+```
+docker stop container-name
+
+then you can
+docker rm container-name|container-ID
+
+to remove a container:
+docker rmi repo:id
+
+once you get it working smoothly
+docker push repo-name:tagname
 
 ## Human Logistics
 [https://doodle.com/create][Doodle]
