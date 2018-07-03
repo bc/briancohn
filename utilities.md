@@ -1,4 +1,19 @@
 # Utilities
+## Docker
+`services start docker`
+`docker images` and `docker ps -a` -a to show nonrunning containers too
+`docker run --name="container-name" image-name`
+```
+docker stop container-name
+
+then you can
+docker rm container-name|container-ID
+
+to remove a container:
+docker rmi repo:id
+
+once you get it working smoothly
+docker push repo-name:tagname
 
 ## Human Logistics
 [https://doodle.com/create][Doodle]
@@ -82,8 +97,11 @@ readUrl <- function(url) {
 `bash /Users/briancohn/scripts/iterm_open_with.sh \5 \1 \2 `
 [https://gist.github.com/trinitronx/f59a8308d42d71fdba41][Command click to subl to specific line]
 
-
 hit and run visualization:
 https://healthyalgorithms.com/2011/01/28/mcmc-in-python-pymc-step-methods-and-their-pitfalls/
 
+# Linux Setup
+[https://askubuntu.com/questions/160036/how-do-i-disable-acpi-when-booting][How to disable ACPI on bootup to allow MsI COMPATIBILITY]
+[https://docs.docker.com/install/linux/docker-ce/ubuntu/#set-up-the-repository][Set up Docker]
+`sudo usermod -a -G docker $USER` To make docker accessible to the user without `sudo`
 
