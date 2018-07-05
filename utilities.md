@@ -3,11 +3,15 @@
 `services start docker`
 `docker images` and `docker ps -a` -a to show nonrunning containers too
 `docker run --name="container-name" image-name`
+
 ```
 docker stop container-name
 
 then you can
 docker rm container-name|container-ID
+
+delete all docker containers that are exited:
+docker rm $(docker ps -a -q -f status=exited) 
 
 to remove a container:
 docker rmi repo:id
@@ -15,11 +19,25 @@ docker rmi repo:id
 once you get it working smoothly
 docker push repo-name:tagname
 
+You can restart an existing container after it exited and your changes are still there.
+
+docker start  `docker ps -q -l` # restart it in the background
+docker attach `docker ps -q -l` # reattach the terminal & stdin
+
+I use:
+docker start dev0
+docker attach dev0
+and if you want another terminal, 
+docker exe -it dev0 bin/bash
+
+```
+
 ## Human Logistics
 [https://doodle.com/create][Doodle]
 [http://whenisgood.net/][WhenIsGood]
 
 ## Cheat Sheets
+[http://www.grymoire.com/Unix/Sed.html#uh-0][Sed tutorial for regx substitutions]
 [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet][Markdown Cheatsheet]
 [https://www.tug.org/twg/mactex/tutorials/ltxprimer-1.0.pdf][Latex Extended Guide]
 [https://reu.dimacs.rutgers.edu/Symbols.pdf][Latex Symbols & Equations]
