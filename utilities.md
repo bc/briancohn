@@ -123,3 +123,14 @@ https://healthyalgorithms.com/2011/01/28/mcmc-in-python-pymc-step-methods-and-th
 [https://docs.docker.com/install/linux/docker-ce/ubuntu/#set-up-the-repository][Set up Docker]
 `sudo usermod -a -G docker $USER` To make docker accessible to the user without `sudo`
 
+
+pi SPI
+```
+$ ls -al /dev/spi*
+crw-rw---- 1 root spi 153, 0 Jul 16 22:57 /dev/spidev0.0
+crw-rw---- 1 root spi 153, 1 Jul 16 22:57 /dev/spidev0.1
+```
+
+# Numpy
+Print all lines of arrays
+`np.set_printoptions(threshold=np.inf)`
