@@ -122,7 +122,12 @@ https://healthyalgorithms.com/2011/01/28/mcmc-in-python-pymc-step-methods-and-th
 [https://askubuntu.com/questions/160036/how-do-i-disable-acpi-when-booting][How to disable ACPI on bootup to allow MsI COMPATIBILITY]
 [https://docs.docker.com/install/linux/docker-ce/ubuntu/#set-up-the-repository][Set up Docker]
 `sudo usermod -a -G docker $USER` To make docker accessible to the user without `sudo`
-
+### allow passwordless ssh
+```bash
+host$ cat ~/.ssh/id_rsa.pub #copy to clipboard
+##ssh within the target CPU, add the host id_rsa.pub to authorized keys. then:
+chmod 700 .ssh; chmod 640 .ssh/authorized_keys
+```
 
 pi SPI
 ```
