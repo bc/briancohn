@@ -118,6 +118,13 @@ readUrl <- function(url) {
 hit and run visualization:
 https://healthyalgorithms.com/2011/01/28/mcmc-in-python-pymc-step-methods-and-their-pitfalls/
 
+# Git
+Merge in changes, accept all from incoming branchB
+```
+git checkout branchA
+git merge -X theirs branchB
+```
+
 # Linux Setup
 [https://askubuntu.com/questions/160036/how-do-i-disable-acpi-when-booting][How to disable ACPI on bootup to allow MsI COMPATIBILITY]
 [https://docs.docker.com/install/linux/docker-ce/ubuntu/#set-up-the-repository][Set up Docker]
@@ -135,6 +142,23 @@ $ ls -al /dev/spi*
 crw-rw---- 1 root spi 153, 0 Jul 16 22:57 /dev/spidev0.0
 crw-rw---- 1 root spi 153, 1 Jul 16 22:57 /dev/spidev0.1
 ```
+# python:
+>>> globals()
+{...}
+
+# "locals()" does the same
+# but for all local variables
+# in the current scope:
+
+>>> locals()
+
+# pi path operations:
+https://docs.python.org/2/library/os.path.html
+os.path.basename
+os.path.dirname
+os.path.exists(path)
+os.path.join(path, *paths)
+os.path.abspath(path)
 
 # Numpy
 Print all lines of arrays
